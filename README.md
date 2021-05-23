@@ -25,12 +25,11 @@ The average fare per urban drivers was 16.57, Suburban 39.50, and Rural was 55.4
 
 Urban cities had the highest total fares count of $39,854.38. Suburban cities had the second-highest total fares count of $19,356.33 followed by Rural cities with $4,327.93
 
+<img width="991" alt="pyber_fare_summary" src="https://user-images.githubusercontent.com/82029390/119263154-e1fa2180-bbab-11eb-8f10-24c3182854a8.png">
+
+
 ## Summary
 
+It appears that suburban and rural cities do not generate as much revenue as that of urban cities. Pyber could benefit from increasing efforts to focus on those cities. It could also be helpful to look into why these cities receive such a lesser amount of revenue than urban cities. One could assume because the rural and suburban cities are less dense than urban cities and thus the need for rides is not as frequent. In that case, PyBer could investigate alternatives such as shuttle programs or increased outreach to the communities. It could also be beneficial to add discounts in these cities to encourage users. 
 
--total rides
--total drivers
--total fares
--average fare per rider
--average fare per driver
--total fare by city type
+
